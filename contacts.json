@@ -1,0 +1,79 @@
+{
+    "contact_id": {
+        "+79991111111": "A1",
+        "+79991111112": "A1",
+        "+79991111113": "A2",
+        "+79991111114": "A3",
+        "+79991111115": "B4",
+        "+79991111116": "B5",
+        "+79991111117": "B6",
+        "+79991111118": "C7",
+        "+79991111119": "D8",
+        "+79991111110": "D9"
+    },
+    "contacts": {
+        "A": {
+            "A1": {
+                "id": 1,
+                "name": "Alex",
+                "surname": "Anderson",
+                "phones": ["+79991111111", "+79991111112"]
+            },
+            "A2": {
+                "id": 2,
+                "name": "Anna",
+                "surname": "Alekseeva",
+                "phones": ["+79991111113"]
+            },
+            "A3": {
+                "id": 3,
+                "name": "Andrey",
+                "surname": "Afanasiev",
+                "phones": ["+79991111114"]
+            }
+        },
+        "B": {
+            "B4": {
+                "id": 4,
+                "name": "Boris",
+                "surname": "Belov",
+                "phones": ["+79991111115"]
+            },
+            "B5": {
+                "id": 5,
+                "name": "Bella",
+                "surname": "Borisova",
+                "phones": ["+79991111116"]
+            },
+            "B6": {
+                "id": 6,
+                "name": "Bogdan",
+                "surname": "Baranov",
+                "phones": ["+79991111117"]
+            }
+        },
+        "C": {
+            "C7": {
+                "id": 7,
+                "name": "Catherine",
+                "surname": "Chernova",
+                "phones": ["+79991111118"]
+            }
+        },
+        "D": {
+            "D8": {
+                "id": 8,
+                "name": "Dmitry",
+                "surname": "Danilov",
+                "phones": ["+79991111119"]
+            },
+            "D9": {
+                "id": 9,
+                "name": "Daria",
+                "surname": "Dmitrieva",
+                "phones": ["+79991111110"]
+            }
+        }
+    },
+    "last_id": 9
+}
